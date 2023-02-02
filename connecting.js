@@ -9,3 +9,6 @@ function tellJoke() {
 function tellJoke() {
   return "Why did the tomato turn red? Because it saw the salad dressing!";
 }
+
+var reason = "didn't know how to 'null' his feelings.";
+console.log("Why was the JavaScript developer sad? Because he " + reason);
